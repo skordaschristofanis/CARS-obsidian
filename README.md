@@ -9,6 +9,7 @@ CARS-obsidian is a repository with a copy of the obsidian vault that contains so
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [List of Documents](#list%20of%20documents)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -32,12 +33,28 @@ git clone -b main https://github.com/skordaschristofanis/CARS-obsidian.git
 #### Obsidian
 If you have Obsidian installed on your system. you can open the repository as your vault, by clicking on "Open Another Vault" in the left sidebar of Obsidian, and selecting the CARS-obsidian directory.
 
+[back to top](#table%20of%20contents)
+
 ------------
 ## Usage
 
 This repository contains a copy of the Obsidian vault used at CARS, which includes documentation that can be helpful for anyone working with CARS. By using this repository as a vault for Obsidian you can easily access and search through the documentation, making it easier to find the information you need.
 
 If you need help using Obsidian, you can refer to the [official documentation](https://help.obsidian.md/).
+
+[back to top](#table%20of%20contents)
+
+------------
+## List of Documents
+
+#### Cheat-Sheets
+
+- [Markdown](docs/cheat-sheets/markdown.md)
+
+#### Windows
+- [Windows 10 Installation Guide](docs/windows/Windows-10-install.md)
+
+[back to top](#table%20of%20contents)
 
 ------------
 ## Contributing
@@ -50,10 +67,12 @@ Please adhere to the [GitHub flow](https://docs.github.com/en/get-started/quicks
 
 By contributing to CARS-obsidian, you agree that your contributions will be licensed under the MIT License.
 
+[back to top](#table%20of%20contents)
+
 ------------
 ## License
 
 CARS-obsidian is distributed under the MIT license. You should have received a [copy](LICENSE) of the MIT License along with this program. If not, see https://mit-license.org/ for additional details.
 
 ------------
-#### [Christofanis Skordas](mailto:skordasc@uchicago.edu) - Last updated: 24-Aug-2023
+#### [Christofanis Skordas](mailto:skordasc@uchicago.edu) - Last updated: 25-Aug-2023
